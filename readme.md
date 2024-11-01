@@ -1,6 +1,9 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+
+
 # Project Name: PepPal 🎯
+
 ## Basic Details
+
 ### Team Name: Cyb Sorcerers 
 ### Team Members
 - **Team Lead:** Megha R Pillai- Rajiv Gandhi Institute Of Technology
@@ -28,13 +31,20 @@ For Software:
 - **Libraries:** None
 - **Tools:** VS Code
 
-### Implementation
-For Software:
-#### Installation
-```bash
-# Clone this repository
-git clone https://github.com/username/repository.git
-# Install dependencies
-pip install -r requirements.txt
-# Run the application
-python app.py
+# Screenshots
+<img width="521" alt="Screenshot 2024-11-01 at 11 48 57 PM" src="https://github.com/user-attachments/assets/ba3ac4ce-f450-4607-834e-6b0137eea77b">
+
+<img width="487" alt="Screenshot 2024-11-02 at 12 31 04 AM" src="https://github.com/user-attachments/assets/9b23dde2-e7f9-435a-bd13-85d6d74fbef1">
+
+<img width="394" alt="Screenshot 2024-11-02 at 12 30 52 AM" src="https://github.com/user-attachments/assets/a419114c-348b-4fda-abe4-729f37ebc7ed">
+
+## Team Contributions
+- Megha R Pillai: HTML and Javascript coding
+- Keerthi P: Designing(CSS)
+- Dipesh V Sabu: Designing(CSS)
+
+---
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
