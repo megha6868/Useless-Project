@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PepPal</title>
+  <link rel="stylesheet" href="compstyle.css">
+</head>
+<body>
+
+<div class="chat-container">
+  <div class="header">
+    <img src="image/logo.png" alt="PepPal Logo" class="logo">
+    <h1>PepPal</h1>
+  </div>
+  
+  <div id="chat-box" aria-live="polite">
+    <div class="bot-message" data-emotion="neutral">Hey Pal! I’m here for you. Tell me, how are you feeling today?</div>
+    <div id="typing-indicator" class="bot-message typing-indicator" style="display: none;">PepPal is typing...</div>
+  </div>
+  <div class="input-area">
+    <input type="text" id="user-input" placeholder="Type your message here..." aria-label="Type your message" autocomplete="off">
+    <button onclick="sendMessage()" aria-label="Send message">Send</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
