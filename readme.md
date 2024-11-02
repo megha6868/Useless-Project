@@ -32,11 +32,11 @@ For Software:
 - **Tools:** VS Code
 
 # Screenshots
-<img width="521" alt="Screenshot 2024-11-01 at 11 48 57 PM" src="https://github.com/user-attachments/assets/ba3ac4ce-f450-4607-834e-6b0137eea77b">
+<img width="479" alt="Screenshot 2024-11-02 at 6 32 15 AM" src="https://github.com/user-attachments/assets/96e836c6-438e-40b8-a810-69fc4d4c0b90">
+<img width="486" alt="Screenshot 2024-11-02 at 6 30 19 AM" src="https://github.com/user-attachments/assets/0195dbc2-d4f0-46a2-bdd7-b33be6bfa9e0">
+<img width="394" alt="Screenshot 2024-11-02 at 6 31 02 AM" src="https://github.com/user-attachments/assets/71b9ec18-d4e5-4844-984f-edf19a051cec">
 
-<img width="487" alt="Screenshot 2024-11-02 at 12 31 04 AM" src="https://github.com/user-attachments/assets/9b23dde2-e7f9-435a-bd13-85d6d74fbef1">
 
-<img width="394" alt="Screenshot 2024-11-02 at 12 30 52 AM" src="https://github.com/user-attachments/assets/a419114c-348b-4fda-abe4-729f37ebc7ed">
 
 ## Team Contributions
 - Megha R Pillai: HTML and Javascript coding
