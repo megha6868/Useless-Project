@@ -1,4 +1,4 @@
-// Define emojis for each emotion
+
 const emojis = {
   sad: "🤗",      // Hug emoji for sad emotion
   happy: "😊",    // Smiley emoji for happy emotion
@@ -6,12 +6,12 @@ const emojis = {
   song: "🎶"      // Musical note emoji for song
 };
 
-// Get references to the necessary elements
+
 const chatBox = document.getElementById("chat-box");
 const userInput = document.getElementById("user-input");
 const typingIndicator = document.getElementById("typing-indicator");
 
-// Bot responses based on emotion
+
 const emotionResponses = {
   happy: [
     "I’m glad to hear that! 😊 What’s making you feel this way?",
